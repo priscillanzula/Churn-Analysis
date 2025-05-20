@@ -30,7 +30,6 @@ A data-driven machine learning project to predict and analyze customer churn. Th
 
 ## 📊 Sample Visualizations
 
-![numeric_correlation_heatmap](https://github.com/user-attachments/assets/2e8d3cbd-6c63-4e84-8758-dc9418d1f864)
 ![Churn_Distribution](https://github.com/user-attachments/assets/4b9963d8-6c46-49e8-982c-e807f2b9d14e)
 ![Churn_and_Non_Churn_Counts_by_Area_Code](https://github.com/user-attachments/assets/2454fef8-c83f-4c66-8620-6797be249db5)
 
