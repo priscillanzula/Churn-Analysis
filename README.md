@@ -1,6 +1,6 @@
 # 📊 Customer Churn Analysis
 
-A data-driven machine learning project to predict and analyze customer churn. This project helps businesses understand why customers leave and identify patterns to improve retention strategies.
+A data-driven machine learning project to predict and analyze customer churn for a telecom company. This project helps understand why customers leave and identify patterns to improve retention strategies.
 
 ## 🚀 Features
 
@@ -19,7 +19,7 @@ A data-driven machine learning project to predict and analyze customer churn. Th
 
 - Logistic Regression
 - Random Forest
-- (Add any others you implemented)
+
 
 ## 🛠️ Tools & Libraries
 
